@@ -7,7 +7,7 @@ Creating a simple java program to interact with MySQL Database. creating a new t
 
 2. Java Development Kit (JDK) 
 
-3. To set up the connectivity user should have MySQL Connector to the Java (JAR file) | [Link](https://www.mysql.com/products/connector/)
+3. To set up the connectivity, user should have MySQL Connector to the Java (JAR file) | [Link](https://www.mysql.com/products/connector/)
 
 
 # Demo
