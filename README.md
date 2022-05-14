@@ -1,5 +1,5 @@
 # Connect MySQL Database in Java
-Creating a simple java program to interact with MySQL Database. creating a new table in an MySQL database from a Java program and Inserting New Values into the Database through Java program.
+Creating a simple java program to interact with MySQL Database. creating a new table in an MySQL database from a Java program and Inserting New Values into the Database through a program.
 <br>
 # Requirements
 
